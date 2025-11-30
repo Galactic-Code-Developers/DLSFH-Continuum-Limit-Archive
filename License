@@ -1,0 +1,24 @@
+# 🧩 **2. `.gitignore`**
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Data files
+*.h5~
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
