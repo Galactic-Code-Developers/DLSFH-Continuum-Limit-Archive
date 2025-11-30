@@ -1,0 +1,11 @@
+epsilon_values: [0.50, 0.25, 0.125]
+
+vertex_valence: 3
+cell_type: dodecahedral
+
+edge_weights:
+  scaling: "w_e ~ epsilon"
+  bounds: [0.1, 1.0]
+
+adjacency:
+  local_group: A5
