@@ -1,0 +1,7 @@
+*.h5 binary
+*.npy binary
+*.json text
+*.yaml text
+*.md text
+*.py text
+*.ipynb text
