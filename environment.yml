@@ -1,0 +1,3 @@
+## 🧪 Running All Tests
+```bash
+pytest tests/
