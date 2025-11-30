@@ -1,0 +1,5 @@
+coherence_length: 0.85
+kernel_type: gaussian
+kernel_parameters:
+  amplitude: 1.0
+  width: 0.35
